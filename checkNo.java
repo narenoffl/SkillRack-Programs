@@ -1,6 +1,6 @@
 // Given input - check that the range of odd numbers and even numbers should be squared and cubed respectively
 
-import java.util.*;
+//import java.util.*;
 public class checkNo{
     public static void main(String[] args){
         int num, N;
