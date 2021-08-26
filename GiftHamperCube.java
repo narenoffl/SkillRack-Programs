@@ -25,7 +25,8 @@ public class GiftHamperCube {
                 System.out.print((num*num*num)-total_price);
             }
         
-            sc.close();
+           
+        sc.close();
 
     }
 }

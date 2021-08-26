@@ -32,7 +32,11 @@ public class DigitalLock {
              System.out.println(even_digit_sum);
             else 
              System.out.println(odd_digit_sum);
+
+             sc.close();
         }
+
+        
 
         public static int powerRaiser(int num, int no_times)
         {
